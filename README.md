@@ -2,40 +2,43 @@
 
 ### QA Automation Engineer
 
-Passionate about ensuring software quality through automation, continuous testing, and reliable test frameworks.
+QA Automation Engineer with experience in designing, developing, and maintaining cypress test automation frameworks to ensure high-quality software delivery.
 
-🔭 Currently working on automated testing solutions and quality assurance processes
+I focus on improving software reliability, reducing manual effort through automation, and enabling faster release cycles through CI/CD integration.
+---
+## 🔭 Current Work
+- Building scalable test automation frameworks
+- Improving end-to-end testing coverage
+- Enhancing CI/CD pipeline integration for automated testing
 
-🌱 Continuously learning advanced test automation, CI/CD practices, and modern testing tools
+## 🌱 Learning
+- Advanced test automation strategies
+- Performance and API testing at scale
+- Cloud-based test execution and reporting
 
-💬 Ask me about:
+---
 
-* Test Automation
-* Selenium & Playwright
-* API Testing
-* CI/CD Integration
-* Test Framework Design
-* Software Quality Assurance
+## 💬 Areas of Expertise
+- Test Automation Framework Design  
+- End-to-End Testing (E2E)  
+- API Testing & Validation  
+- CI/CD Integration  
+- Software Quality Assurance (SQA)  
+- Test Planning & Execution  
 
-🛠️ Tech Stack:
+---
 
-* Selenium
-* Playwright
-* Cypress
-* Postman
-* Java
-* Python
-* JavaScript
-* GitHub Actions
-* Jenkins
-
-📫 Connect with me:
-
-* LinkedIn: [Your LinkedIn Profile]
-* Email: [Your Email]
-
-⚡ Fun Fact: I enjoy breaking software before users do and turning repetitive testing into automated solutions.
-
+## 🛠️ Tech Stack
+- Playwright  
+- Cypress  
+- Postman  
+- JavaScript  
+- GitHub Actions  
+- Jenkins  
+---
+## ⚡ Fun Fact
+I enjoy breaking software in structured ways to ensure it works perfectly for real users.
+---
 
 <!--
 **anilpujaraofficial/anilpujaraofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

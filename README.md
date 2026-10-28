@@ -53,19 +53,6 @@ I'm a QA Automation Engineer who designs, builds and maintains **Cypress- and Pl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anilpujaraofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpujaraofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anilpujaraofficial&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > I enjoy breaking software in structured ways so it works perfectly for real users. 🐞🔨

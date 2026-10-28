@@ -34,36 +34,42 @@ I'm a QA Automation Engineer who designs, builds and maintains **Cypress- and Pl
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>🤖 Test Automation</b><br /><br />
+      <b>🤖 Test Automation</b><br />
       <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+      <br /><img src="assets/spacer.gif" width="400" height="1" alt="" />
     </td>
     <td width="50%" align="center">
-      <b>🔌 API Testing</b><br /><br />
+      <b>🔌 API Testing</b><br />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+      <br /><img src="assets/spacer.gif" width="400" height="1" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <b>⚡ Performance Testing</b><br /><br />
+      <b>⚡ Performance Testing</b><br />
       <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+      <br /><img src="assets/spacer.gif" width="400" height="1" alt="" />
     </td>
     <td width="50%" align="center">
-      <b>🔒 Security Testing</b><br /><br />
+      <b>🔒 Security Testing</b><br />
       <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+      <br /><img src="assets/spacer.gif" width="400" height="1" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <b>🚀 CI/CD</b><br /><br />
+      <b>🚀 CI/CD</b><br />
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <br /><img src="assets/spacer.gif" width="400" height="1" alt="" />
     </td>
     <td width="50%" align="center">
-      <b>💻 Languages & Runtime</b><br /><br />
+      <b>💻 Languages & Runtime</b><br />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <br /><img src="assets/spacer.gif" width="400" height="1" alt="" />
     </td>
   </tr>
 </table>
